@@ -23,6 +23,7 @@ body {
     width: 90%;
     padding-left: 100px;
     padding-right: 70px;
+    padding-top: 19px;
 }
 .box2 ul{
     display: flex;
@@ -46,6 +47,9 @@ body {
     padding-left: 100px;
     padding-right: 50px;
 }
+.text parent p {
+    margin-right: 100px;
+}
 
 .parent {
     /* border: 2px solid white; */
@@ -54,6 +58,7 @@ body {
 }
 
 .image {
+    padding-top: 10px;
     background-image: url("images/background3.png");
     background-size: cover;
     background-position: center;
@@ -93,9 +98,6 @@ body {
     width: 100%;
 }
 
-.text1 {
-    padding-left: 20px;
-}
 
 * {
     margin: 0;
